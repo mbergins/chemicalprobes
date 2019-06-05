@@ -1,0 +1,15 @@
+Package: chemicalprobes
+Type: Package
+Title: Provides a copy of the primary table at chemicalprobes.org
+Version: 0.1.0
+Author: Matthew Berginski
+Maintainer: Matthew Berginski <matthew.berginski@gmail.com>
+Description: A simple package to provide a copy of the list of chemical probes 
+    identified by chemicalprobes.org with a few additions related to mapping 
+    the provided gene names onto the HGNC.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Depends: R (>= 2.10)
+License: CC0
