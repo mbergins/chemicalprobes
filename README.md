@@ -9,3 +9,10 @@ The package can be installed with devtools:
 ```{r}
 devtools::install_github('mbergins/chemicalprobes')
 ```
+# Usage
+
+You should now have access to a variable named chemical_probes:
+
+```{r}
+help("chemical_probes")
+```
