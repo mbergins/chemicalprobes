@@ -24,3 +24,7 @@ You should now have access to a variable named chemical_probes:
 ```{r}
 help("chemical_probes")
 ```
+
+# Reproduciblity
+
+If you want to rebuild this package, you will first need to sign up for an account at chemical probes and download the latest data set from them. From there, the critical line you will need to change is near the top of [`DATASET.R`](data-raw/DATASET.R).
